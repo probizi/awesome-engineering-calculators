@@ -11,6 +11,7 @@
 
 - [HVAC & Mechanical](#hvac--mechanical)
 - [Electrical & Power](#electrical--power)
+- [Civil & Structural](#civil--structural)
 
 ---
 
@@ -103,6 +104,12 @@
 | [Voltage Drop Calculator (NEC Copper)](https://calcengineer.com/electrical/voltage-drop-calculator-nec-copper/) | NEC-compliant voltage drop for copper conductors |
 
 ---
+
+## Civil & Structural
+
+| Calculator | Description |
+|------------|-------------|
+| [Concrete Calculator Hub](https://concreteestimatorhub.com/) | Free concrete volume, bag coverage, slab, footing, and ready-mix cost calculators for civil and construction planning. |
 
 ## Contributing
 
