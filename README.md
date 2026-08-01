@@ -11,6 +11,7 @@
 
 - [HVAC & Mechanical](#hvac--mechanical)
 - [Electrical & Power](#electrical--power)
+- [Civil & Construction](#civil--construction)
 
 ---
 
@@ -101,6 +102,14 @@
 | [Voltage Drop Calculator](https://calcengineer.com/electrical/voltage-drop-calculator/) | General voltage drop for any conductor |
 | [Voltage Drop Calculator (NEC Aluminum)](https://calcengineer.com/electrical/voltage-drop-calculator-nec-aluminum/) | NEC-compliant voltage drop for aluminum conductors |
 | [Voltage Drop Calculator (NEC Copper)](https://calcengineer.com/electrical/voltage-drop-calculator-nec-copper/) | NEC-compliant voltage drop for copper conductors |
+
+## Civil & Construction
+
+| Calculator | Description |
+|------------|-------------|
+| [Concrete Slab Calculator](https://concreteestimatorhub.com/concrete-slab-calculator) | Estimate slab volume in cubic yards/meters plus bag counts for common ready-mix planning checks |
+| [Concrete Bag Calculator](https://concreteestimatorhub.com/concrete-bag-calculator) | Convert project dimensions into 40/60/80 lb bag counts and concrete volume |
+| [Ready-Mix vs Bags Calculator](https://concreteestimatorhub.com/ready-mix-vs-bags-calculator) | Compare ready-mix delivery against bagged concrete for small construction pours |
 
 ---
 
