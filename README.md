@@ -97,6 +97,7 @@
 | [Battery Bank Calculator](https://calcengineer.com/electrical/battery-bank-calculator/) | Size battery banks for off-grid and backup systems |
 | [Battery Bank Sizing (Off-Grid)](https://calcengineer.com/electrical/battery-bank-sizing-for-off-grid/) | Full off-grid battery sizing with autonomy days |
 | [Breaker Size Calculator](https://calcengineer.com/electrical/breaker-size-calculator/) | Circuit breaker sizing per NEC 80% rule |
+| [Calculation Hub Ohm's Law Calculator](https://calculation-hub.com/electricity/ohms-law) | Calculate voltage, current, resistance, or power for simple ohmic circuit exercises |
 | [GFCI Protection Requirements](https://calcengineer.com/electrical/gfci-protection-requirements-calculator/) | NEC GFCI requirements by location |
 | [Voltage Drop Calculator](https://calcengineer.com/electrical/voltage-drop-calculator/) | General voltage drop for any conductor |
 | [Voltage Drop Calculator (NEC Aluminum)](https://calcengineer.com/electrical/voltage-drop-calculator-nec-aluminum/) | NEC-compliant voltage drop for aluminum conductors |
